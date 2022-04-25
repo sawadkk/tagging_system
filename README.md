@@ -19,6 +19,7 @@ python manage.py runserver
 log into admin (http://127.0.0.1:8000/admin)
 
 create user
+
 add post
 
 API doc: http://127.0.0.1:8000/api/docs
